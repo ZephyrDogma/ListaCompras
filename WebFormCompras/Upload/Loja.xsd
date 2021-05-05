@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="Loja.xsd">
+  <xs:element name="Compras">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="Roupa"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Roupa">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element ref="Marca"/>
+        <xs:element ref="Tipo"/>
+        <xs:element ref="Tamanho"/>
+        <xs:element ref="Preco"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="Marca" type="xs:NCName"/>
+  <xs:element name="Tipo" type="xs:NCName"/>
+  <xs:element name="Tamanho" type="xs:NMTOKEN"/>
+  <xs:element name="Preco" type="xs:decimal"/>
+</xs:schema>

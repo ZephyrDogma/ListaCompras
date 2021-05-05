@@ -1,0 +1,25 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT Compras (Roupa)+>
+<!ATTLIST Compras
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Roupa (Marca,Tipo,Tamanho,Preco)>
+<!ATTLIST Roupa
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Marca (#PCDATA)>
+<!ATTLIST Marca
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Tipo (#PCDATA)>
+<!ATTLIST Tipo
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Tamanho (#PCDATA)>
+<!ATTLIST Tamanho
+  xmlns CDATA #FIXED ''>
+
+<!ELEMENT Preco (#PCDATA)>
+<!ATTLIST Preco
+  xmlns CDATA #FIXED ''>

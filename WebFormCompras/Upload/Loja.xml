@@ -1,0 +1,22 @@
+﻿<?xml version="1.0"?>
+<Compras xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="Loja.xsd">
+    <Roupa>
+        <Marca>Adidas</Marca>
+        <Tipo>T-Shirt</Tipo>
+        <Tamanho>M</Tamanho>
+        <Preco>29.99</Preco>
+    </Roupa>
+    <Roupa>
+        <Marca>Nike</Marca>
+        <Tipo>Camisola</Tipo>
+        <Tamanho>S</Tamanho>
+        <Preco>19.99</Preco>
+    </Roupa>
+    <Roupa>
+        <Marca>Pullbear</Marca>
+        <Tipo>Calcas</Tipo>
+        <Tamanho>38</Tamanho>
+        <Preco>39.99</Preco>
+    </Roupa>
+</Compras>

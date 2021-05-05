@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Roupas>
+  <Roupa>
+    <Id>1</Id>
+    <Marca>Adidas    </Marca>
+    <Tipo>T-Shirt   </Tipo>
+    <Tamanho>M         </Tamanho>
+    <Preco>29.99     </Preco>
+  </Roupa>
+  <Roupa>
+    <Id>2</Id>
+    <Marca>Nike      </Marca>
+    <Tipo>Camisola  </Tipo>
+    <Tamanho>S         </Tamanho>
+    <Preco>19.99     </Preco>
+  </Roupa>
+  <Roupa>
+    <Id>3</Id>
+    <Marca>Pullbear  </Marca>
+    <Tipo>Calcas    </Tipo>
+    <Tamanho>38        </Tamanho>
+    <Preco>39.99     </Preco>
+  </Roupa>
+  <Roupa>
+    <Id>4</Id>
+    <Marca>Adidas    </Marca>
+    <Tipo>T-Shirt   </Tipo>
+    <Tamanho>M         </Tamanho>
+    <Preco>29.99     </Preco>
+  </Roupa>
+  <Roupa>
+    <Id>5</Id>
+    <Marca>Nike      </Marca>
+    <Tipo>Camisola  </Tipo>
+    <Tamanho>S         </Tamanho>
+    <Preco>19.99     </Preco>
+  </Roupa>
+  <Roupa>
+    <Id>6</Id>
+    <Marca>Pullbear  </Marca>
+    <Tipo>Calcas    </Tipo>
+    <Tamanho>38        </Tamanho>
+    <Preco>39.99     </Preco>
+  </Roupa>
+  <Roupa>
+    <Id>7</Id>
+    <Marca>Adidas    </Marca>
+    <Tipo>T-Shirt   </Tipo>
+    <Tamanho>M         </Tamanho>
+    <Preco>29.99     </Preco>
+  </Roupa>
+  <Roupa>
+    <Id>8</Id>
+    <Marca>Nike      </Marca>
+    <Tipo>Camisola  </Tipo>
+    <Tamanho>S         </Tamanho>
+    <Preco>19.99     </Preco>
+  </Roupa>
+  <Roupa>
+    <Id>9</Id>
+    <Marca>Pullbear  </Marca>
+    <Tipo>Calcas    </Tipo>
+    <Tamanho>38        </Tamanho>
+    <Preco>39.99     </Preco>
+  </Roupa>
+</Roupas>
